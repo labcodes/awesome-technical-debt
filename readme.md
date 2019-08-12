@@ -7,6 +7,7 @@
 
 - [Talks](#talks)
 - [Articles](#articles)
+- [Books](#books)
 
 
 ## Talks
@@ -42,6 +43,12 @@ Articles and blogposts related to Technical Debt.
 - [Pragmatic Technical Debt Management - Ganesh Samarthyam, Girish Suryanarayana and Tushar Sharma](https://www.infoq.com/articles/pragmatic-technical-debt/)
 - [What is Evolutionary Design? - Adi Bolboaca](https://mozaicworks.com/blog/what-is-evolutionary-design/)
 
+
+## Books
+
+Books related to Technical Debt.
+- [Refactoring for Software Design Smells - Ganesh Samarthyam, Girish Suryanarayana and Tushar Sharma](https://www.amazon.com/gp/product/0128013974)
+- [Working Effectively with Legacy Code - Michael Feathers](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
 
 ## Contribute
 
