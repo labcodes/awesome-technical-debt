@@ -30,7 +30,27 @@ Ward Cunningham
 ## Articles
 
 Articles and blogposts related to Technical Debt.
-- [Ward Explains Debt Metaphor](http://wiki.c2.com/?WardExplainsDebtMetaphor)
+- [Ward Explains Debt Metaphor - Ward Cunningham](http://wiki.c2.com/?WardExplainsDebtMetaphor)
+
+- [TechnicalDebt - Marin Fowler](https://martinfowler.com/bliki/TechnicalDebt.html)
+
+- [TechnicalDebtQuadrant - Marin Fowler](https://martinfowler.com/bliki/TechnicalDebtQuadrant.html)
+
+- [Is High Quality Software Worth the Cost? - Marin Fowler](https://martinfowler.com/articles/is-quality-worth-cost.html)
+
+- [The Financial Implications of Technical Debt - Erik Frederick](https://www.toptal.com/finance/part-time-cfos/technical-debt)
+
+- [Defining and Dealing with Technical Debt - Geoff Graham](https://css-tricks.com/defining-and-dealing-with-technical-debt/)
+
+- [The Human Cost of Tech Debt - Erik Dietrich](https://daedtech.com/human-cost-tech-debt/)
+
+- [A Mess is not a Technical Debt - Uncle Bob](https://sites.google.com/site/unclebobconsultingllc/a-mess-is-not-a-technical-debt)
+
+- [Technical debt 101 - Maiz Lulkin](https://medium.com/@joaomilho/festina-lente-e29070811b84)
+
+- [Pragmatic Technical Debt Management - Ganesh Samarthyam, Girish Suryanarayana and Tushar Sharma](https://www.infoq.com/articles/pragmatic-technical-debt/)
+
+- [What is Evolutionary Design? - Adi Bolboaca](https://mozaicworks.com/blog/what-is-evolutionary-design/)
 
 
 ## Contribute
