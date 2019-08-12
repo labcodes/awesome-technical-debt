@@ -6,6 +6,7 @@
 ## Contents
 
 - [Talks](#talks)
+- [Articles](#articles)
 
 
 ## Talks
@@ -25,6 +26,11 @@ Ward Cunningham
 
 - [Demanding Professionalism in Software Development - Robert C. Martin (Uncle Bob)](https://www.youtube.com/watch?v=p0O1VVqRSK0) - Robert C. Martin explains in his own unique style why professionalism is so important for software development teams and their managers. This event has been recorded live at an event co-hosted by Agile Quebec City and Elapse Technologies in Septembre 2012.
 
+
+## Articles
+
+Articles and blogposts related to Technical Debt.
+- [Ward Explains Debt Metaphor](http://wiki.c2.com/?WardExplainsDebtMetaphor)
 
 
 ## Contribute
