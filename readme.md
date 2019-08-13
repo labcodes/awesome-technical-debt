@@ -28,9 +28,9 @@ Ward Cunningham
 
 Articles and blogposts related to Technical Debt.
 - [Ward Explains Debt Metaphor - Ward Cunningham](http://wiki.c2.com/?WardExplainsDebtMetaphor)
-- [TechnicalDebt - Marin Fowler](https://martinfowler.com/bliki/TechnicalDebt.html)
-- [TechnicalDebtQuadrant - Marin Fowler](https://martinfowler.com/bliki/TechnicalDebtQuadrant.html)
-- [Is High Quality Software Worth the Cost? - Marin Fowler](https://martinfowler.com/articles/is-quality-worth-cost.html)
+- [TechnicalDebt - Martin Fowler](https://martinfowler.com/bliki/TechnicalDebt.html)
+- [TechnicalDebtQuadrant - Martin Fowler](https://martinfowler.com/bliki/TechnicalDebtQuadrant.html)
+- [Is High Quality Software Worth the Cost? - Martin Fowler](https://martinfowler.com/articles/is-quality-worth-cost.html)
 - [The Financial Implications of Technical Debt - Erik Frederick](https://www.toptal.com/finance/part-time-cfos/technical-debt)
 - [Defining and Dealing with Technical Debt - Geoff Graham](https://css-tricks.com/defining-and-dealing-with-technical-debt/)
 - [The Human Cost of Tech Debt - Erik Dietrich](https://daedtech.com/human-cost-tech-debt/)
