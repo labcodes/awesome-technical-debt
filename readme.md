@@ -46,6 +46,7 @@ Books related to Technical Debt.
 - [Refactoring for Software Design Smells - Ganesh Samarthyam, Girish Suryanarayana and Tushar Sharma](https://www.amazon.com/gp/product/0128013974)
 - [Working Effectively with Legacy Code - Michael Feathers](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
 - [Managing Technical Debt: Reducing Friction in Software Development - Philippe Kruchten, Robert Nord, Ipek Ozkaya](https://www.amazon.com/gp/product/013564593X)
+- [Technical Debt in Practice: How to Find It and Fix It - Neil Ernst, Julien Delange and Rick Kazman](https://www.amazon.com/Technical-Debt-Practice-How-Find-ebook/dp/B08NT6C4FV)
 
 ## Contribute
 
