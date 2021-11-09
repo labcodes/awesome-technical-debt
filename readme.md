@@ -38,6 +38,7 @@ Articles and blogposts related to Technical Debt.
 - [Technical debt 101 - Maiz Lulkin](https://medium.com/@joaomilho/festina-lente-e29070811b84)
 - [Pragmatic Technical Debt Management - Ganesh Samarthyam, Girish Suryanarayana and Tushar Sharma](https://www.infoq.com/articles/pragmatic-technical-debt/)
 - [What is Evolutionary Design? - Adi Bolboaca](https://mozaicworks.com/blog/what-is-evolutionary-design/)
+- [Visualising and Prioritizing Technical Debt - Aiko Klostermann](https://aiko.dev/visualising-and-prioritizing-technical-debt/)
 
 
 ## Books
